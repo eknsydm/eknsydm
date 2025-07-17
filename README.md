@@ -1,5 +1,8 @@
-## Ekin Saydam
-[Website](https://eknsydm.github.io/portfolio/)
+# Ekin Saydam
+
+Check out my website here:  
+[![Visit My Website](https://img.shields.io/badge/Visit-My%20Website-blue?style=for-the-badge&logo=google-chrome)](https://eknsydm.github.io/portfolio/)
+
 <!--
 **eknsydm/eknsydm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
