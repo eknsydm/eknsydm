@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Ekin Saydam
+[Website](https://eknsydm.github.io/portfolio/)
 <!--
 **eknsydm/eknsydm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
